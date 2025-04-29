@@ -1,4 +1,4 @@
-<div class="bg-[url('/src/assets/haikei.jpeg')] bg-[size:100%] bg-repeat flex flex-col justify-center items-center h-svh gap-16">
+<div class="flex flex-col justify-center items-center h-svh gap-16">
     <div class="text-7xl font-extrabold backdrop-blur-sm bg-white/20 p-4 rounded-2xl shadow-2xl">
         Quiz App
     </div>
